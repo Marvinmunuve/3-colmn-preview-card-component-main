@@ -33,7 +33,7 @@ body {
     display: grid;
     grid-template-columns: 1fr;
     border-radius: 12px;
-    margin: 2rem;
+    margin: 8rem;
     overflow: hidden;
 }  
 
